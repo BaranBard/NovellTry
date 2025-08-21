@@ -1,56 +1,57 @@
 # Game Prototype - Visual Novel
 
-P0P=P8P5 P?Q## P>P5P:P0
+## Project Description
 
-P-P> P?QQQP, QQQP8Q
-P9 P=P0 Python. PP4P5 P3P5P=P5QQ
-P8Q
-P9 P<P>P<P5P= P?QQ
+This is a prototype of a visual novel implemented in Python. The game will generate text descriptions, visual components (sprites and backgrounds), and audio. Currently, the project is focused on the basic structure of the game without the use of neural networks.
 
+## Game Structure
 
-PP0P;QP=QQ
- P=P>P2P5P;P;Q, P3P4P5 P8P3Q
-P1P>Q
-, P:P>P>QQ
-, P0P=P8P<P0Q
-P>P=P0P6P5P9.
+The game is a visual novel where the player will make choices that influence the story's progression. The main components of the game include:
+- **Text**: scene descriptions, actions, dialogues.
+- **Visuals**: characters, backgrounds, animations.
+- **Audio**: background music and character voices.
 
-P0P=P>P2P:P0
+## Installation
 
-P8.
+To get started with the project, you need to install the required dependencies.
 
-1. PP;P>P=P8QQP8P<QP9P5 QQP>P5P?P>P7P8P>QQQP5 P8P9:
+1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/game-project.git
     ```
 
-2. P    ```bash
+2. Navigate to the project directory:
+    ```bash
     cd game-project
     ```
 
-P8:
+3. Install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-## P!QQQP8P<QP:QQQP>P0 QP0P9P;P>P2
+## File Structure
 
-- **assets/** bP0P=, P7P2QP:P8).
-- **src/** bP>    - **game.py** bP2P8P5     - **scenes.py** bP7P0P2P8QQQ3. ash: P8: not found
-ash: P: not found
-.
+- **assets/** b
+ash: syntax error: unexpected "("
+- **src/** b
+ash: The: not found
+    - **game.py** b
+ash: Game: not found
+    - **scenes.py** b
+ash: Description: not found
+    - **characters.py** b
+ash: Characters: not found
     - **dialogue.py** b
-ash: P1P: not found
+ash: Dialogue: not found
     - **audio_manager.py** b
-P4P8P>.
+ash: Audio: not found
     - **visual_manager.py** b
-Q Q
-P;P5P<P5P=P>P2.
+ash: Visual: not found
 
+## Running the Game
 
-
-P;P5P4QQP?P>P;QP7QP9P5 QQ, P8Q
-P9 QP0P9P;:
+To run the game, use the following command:
 
 ```bash
 python src/game.py

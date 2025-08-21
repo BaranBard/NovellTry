@@ -1,0 +1,9 @@
+```gitignore
+# Ignore files that aren't needed in the repository
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite
+*.db 
